@@ -1,0 +1,4 @@
+﻿# Mykyta Koniachenko
+
+> Informatyk
+
