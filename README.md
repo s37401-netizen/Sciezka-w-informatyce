@@ -1,0 +1,1 @@
+# Sciezka-w-informatyce
