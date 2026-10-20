@@ -13,3 +13,5 @@ Sceny dla gier.
 programowanie na Python, Lua, JavaScript,
 C++ oraz godot.
 
+## Cele na studiach
+Mam na celu rozwiąć nowe umiejętności.
